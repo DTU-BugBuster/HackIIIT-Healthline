@@ -5,9 +5,7 @@
 <i>A complete health care app with elegant GUI and following features : customized Medicine Reminder, daily health tips, information about nearby hospitals with navigation, complete information regarding a medicine or salt and first aid tips. First aid tips are fetched from remote database with 'save offline' feature for emergency.&nbsp;&nbsp;</i><br />
 <br />
 <h3 style="text-align: left;">
-<i>Installing</i></h3>
-<i> To install the app, just download the apk for Android <a href="https://github.com/shivamkumard107/Healthline/releases/download/v1.0.Healthline.apk" target="_blank">from here</a>. </i><br />
-<i><br /></i>
+
 <br />
 <h3 style="text-align: left;">
 <i>Screenshots<!--more--></i></h3>
